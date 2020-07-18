@@ -1,0 +1,2 @@
+Кастомный Select на CSS и JS. Custom HTML Select.
+https://www.youtube.com/watch?v=H-UPHVjunOs
